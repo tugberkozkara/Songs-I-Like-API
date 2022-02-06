@@ -7,9 +7,9 @@ https://songs-i-like.herokuapp.com/
 FastAPI, Postgres are used.
 
 <br/><br/>
-Example project will be here soon:
+Example project:
 
-#songoftheday
+[listen-this-today.herokuapp.com](https://listen-this-today.herokuapp.com/)
 
 <br/><br/>
 ## Endpoints

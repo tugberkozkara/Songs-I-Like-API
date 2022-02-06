@@ -1,4 +1,4 @@
-# songs-i-like-api
+# Songs I Like API
 
 Developed to mess around with APIs and songs that I like.
 
